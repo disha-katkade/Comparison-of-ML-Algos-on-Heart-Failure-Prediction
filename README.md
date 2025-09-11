@@ -13,7 +13,7 @@ This project presents a comprehensive comparison of various machine learning alg
 | Support Vector Machine (SVM) | 54.35% | ... | ... | ... |
 | K-Nearest Neighbors (KNN) | 50.0% | ... | ... | ... |
 
-*(Include your results graph here. You can upload it to the repo and link it with `![Accuracy Comparison Plot](images/accuracy_plot.png)`)*
+![Accuracy Comparison Plot](images/accuracy_plot.png)`
 
 ## 🗂️ Project Structure
 ```
