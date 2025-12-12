@@ -62,9 +62,9 @@ heart-disease-prediction-ml-comparison/
 
 ## 👨‍💻 Author
 **Disha Katkade**
-- [Kaggle Profile](https://www.kaggle.com/diissha)
-- [Kaggle Profile]()
-- [LinkedIn](https://www.linkedin.com/in/disha-0a6781344/)
+- [![Kaggle Profile](img.shields.io)](https://www.kaggle.com/diissha)
+- [![LinkedIn](img.shields.io)](https://www.linkedin.com/in/disha-0a6781344/)
+
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
