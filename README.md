@@ -64,6 +64,7 @@ heart-disease-prediction-ml-comparison/
 **Disha Katkade**
 - [![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-Follow-black?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=00F7EF&color=333333)](https://www.kaggle.com/diissha)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/disha-k-0a6781344)
+- [![Medium](https://img.shields.io/badge/Medium-Blog-FFD6E7?style=for-the-badge&logo=medium&logoColor=black&colorA=FFB6C1&colorB=FFD6E7&labelColor=FF69B4)](https://medium.com/@diishaa)
 
 
 ## 📜 License
